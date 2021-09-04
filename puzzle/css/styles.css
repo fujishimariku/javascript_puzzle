@@ -1,0 +1,6 @@
+canvas {
+  background: rgb(0, 157, 255);  /*canvasの背景を水色に*/
+  display: block;      /*中央ぞろえに*/
+  margin: 0 auto;
+  cursor: pointer;     /*クリックして操作するのでわかりやすく*/
+}
